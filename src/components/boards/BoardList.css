@@ -1,0 +1,10 @@
+
+ul.board__list {
+  list-style-type: none;
+}
+
+ul.board__list li{
+  border: 1px black solid;
+  margin: .5rem;
+  padding: .5rem;
+}
